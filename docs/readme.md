@@ -121,5 +121,5 @@ the direction, and press the **space bar** to unwind the inital leads from
 the brass part.
 
 I used this coil winder in the
-[Clock 1&2](https://github.com/phorton1/theClock) and
-[Clock 3](https://github.com/phorton1/theClock3) projects.
+[Clock 1&2](https://github.com/phorton1/Arduino-theClock) and
+[Clock 3](https://github.com/phorton1/Arduino-theClock3) projects.
