@@ -76,7 +76,7 @@ The bottom row of the 8 pins on the module are as follows:
 
 ## Software and User Interface
 
-The **CoilWindingMachine.ino** program makes use of the small [**myDebug**](https:://gitub.com/phorton/Arduino-libraries-myDebug) library
+The **CoilWindingMachine.ino** program makes use of the small [**myDebug**](https://gitub.com/phorton/Arduino-libraries-myDebug) library
 to provide serial port output with formatting and requires the installation of the
 Arduino **AccelStepper** library.
 
